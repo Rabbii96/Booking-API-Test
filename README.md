@@ -1,2 +1,2 @@
-# daraz.com
+API test
 API test using POSTMAN
